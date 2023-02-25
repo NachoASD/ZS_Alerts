@@ -6,6 +6,7 @@ Police alerts optimized for Fivem
 Plug And Play Script
 
 [Discord](https://discord.gg/vsu2GpKUDG)
+
 [PREVIEW](vsu2GpKUDG)
 
 |                                       |                               |
