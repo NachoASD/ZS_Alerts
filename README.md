@@ -5,8 +5,9 @@ Police alerts optimized for Fivem
 
 Plug And Play Script
 
-[Discord](https://discord.gg/vsu2GpKUDG)
-[PREVIEW](vsu2GpKUDG)
+[Github](https://github.com/NachoASD/ZS_Alerts)
+
+[PREVIEW](https://streamable.com/aoumu9)
 
 |                                       |                               |
 |---------------------------------------|-------------------------------|
