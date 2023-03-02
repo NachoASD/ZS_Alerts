@@ -1,12 +1,6 @@
 ESX = exports["es_extended"]:getSharedObject()
 
-local tac = nil
-
--- Get the first tac
-for k,v in pairs(Config.Levels) do
-    tac = k
-    break
-end
+local tac = Config.Levels[1].value
 
 RegisterCommand("zs_alerts", function(source)
     if(source == 0) then return end

@@ -1,0 +1,14 @@
+.container {
+  position: absolute;
+  top: 25%;
+  left: 89%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert {
+  width: 128px;
+  max-width: 128px;
+  min-width: 128px;
+}
