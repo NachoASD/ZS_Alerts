@@ -20,18 +20,15 @@ shared_scripts {
     'Config/config.lua'
 }
 
-client_scripts {
-    'Client/main.lua'
-}
+client_script 'Client/main.lua'
 
-server_scripts {
-    'Server/main.lua'
-}
+server_script'Server/main.lua'
 
 ui_page 'UI/index.html'
 
 files {
     'UI/*.html',
-    'UI/*.js',
+    'UI/js/*.js',
+    'UI/css/*.css',
     'UI/images/*.png',
 }
